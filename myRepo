@@ -1,0 +1,1 @@
+mvn clean package sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=jayachetwani -Dsonar.login=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
